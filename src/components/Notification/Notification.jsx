@@ -1,4 +1,3 @@
-
 import propTypes from 'prop-types';
 import css from './Notification.module.css'
 
